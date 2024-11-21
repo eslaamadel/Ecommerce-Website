@@ -8,7 +8,7 @@ const ProductsData = [
     id: 1,
     img: image1,
     title: "T-shirt",
-    rating: 5.0,
+    rating: 4.8,
     author: "blue",
     aosDelay: "0",
   },
